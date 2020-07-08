@@ -35,22 +35,11 @@
   }
 }
 
-.mark {
-  margin-right: 5px;
-}
-
-.text,
-.mark {
+.text {
   font-size: 18px;
 }
 
 .right {
   display: flex;
   position: relative;
-}
-
-@keyframes cursor {
-  0% { opacity: 0; }
-  50% { opacity: 1; }
-  100% { opacity: 0; }
 }
