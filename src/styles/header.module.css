@@ -39,16 +39,6 @@
   margin-right: 5px;
 }
 
-.cursor {
-  display: inline-block;
-  width: 10px;
-  height: 1rem;
-  background: #fe5186;
-  margin-left: 5px;
-  border-radius: 1px;
-  animation: cursor 1s infinite;
-}
-
 .text,
 .mark {
   font-size: 18px;
